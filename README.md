@@ -38,7 +38,9 @@ This application allows you to run Large Language Models (LLMs) locally using **
 - **Streamlit UI** for user interaction.
 - **PersonalKnowledgeAssistant** for document processing and querying.
 - **Ollama API** for local LLM inference.
+## Demo
 
+![demo](demo.gif)
 ## License
 This project is licensed under the MIT License.
 
